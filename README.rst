@@ -10,23 +10,8 @@ XBrainMap
     :target: https://gitter.im/xbrainmap/xbrainmap
     :alt: Gitter Chat
 
-Software for obtaining brain mapping from x-ray measurements.
+Software for segmenting X-ray image stacks.
 
-Features
---------
-
-* Registration of x-ray micrographs
-* Reconstruction of full mouse brain microstructure
-* Segmentation of neurons and blood vessels
-* High-performace and automated data processing workflows 
-
-Installation
-------------
-
-Install xbrainmap by running:
-
-    conda install -c xbrainmap xbrainmap
-    
 Contribute
 ----------
 
